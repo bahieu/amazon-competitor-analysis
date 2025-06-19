@@ -28,3 +28,4 @@ tzdata==2025.2
 urllib3==2.4.0
 plotly==5.19.0
 prophet==1.1.5
+aiohttp==3.9.3
